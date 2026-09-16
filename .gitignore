@@ -7,6 +7,8 @@
 
 # IntelliJ
 out/
+# Eclipse compiler output (Buildship / IDE plugin)
+bin/
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
